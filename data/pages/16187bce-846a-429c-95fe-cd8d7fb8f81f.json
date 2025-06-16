@@ -35,10 +35,10 @@
   "created_by": "JMU-AudiAnnotate",
   "title": "FF0067",
   "slug": "ff0067",
-  "updated_at": "2025-06-16T17:48:05.748Z",
+  "updated_at": "2025-06-16T17:49:56.389Z",
   "updated_by": "JMU-AudiAnnotate",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "29c3d469-df81-4f9c-88b5-0d77794c3fe9"
   }
