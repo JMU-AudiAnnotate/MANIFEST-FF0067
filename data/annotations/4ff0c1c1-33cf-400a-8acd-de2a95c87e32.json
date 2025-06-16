@@ -5577,7 +5577,12 @@
           "text": "Aldon Lynn Nielsen: first time I ever saw you read was\nin the Library of Congress with\nRobert Hayden and Gwendolyn Brooks."
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Aldon Lynn Nielsen",
+          "category": "Speaker"
+        }
+      ],
       "uuid": "59862413-23ff-4aa6-b35f-984383925633"
     },
     {
