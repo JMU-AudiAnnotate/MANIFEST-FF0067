@@ -9554,7 +9554,6 @@
       "uuid": "5f5bde54-1ce3-489f-ae6d-36932106e621"
     },
     {
-      "uuid": "9fd7ec70-21cd-43b8-b2b4-3448dc6db05d",
       "start_time": 206.434,
       "end_time": 1130.579,
       "annotation": [
@@ -9567,7 +9566,13 @@
           ]
         }
       ],
-      "tags": []
+      "tags": [
+        {
+          "category": "Index",
+          "tag": "Index"
+        }
+      ],
+      "uuid": "9fd7ec70-21cd-43b8-b2b4-3448dc6db05d"
     },
     {
       "uuid": "25af7ae4-4fa8-4a59-ab5e-7cbb1e4a0a59",
