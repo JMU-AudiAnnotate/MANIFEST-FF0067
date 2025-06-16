@@ -5561,7 +5561,12 @@
           "text": "Aldon Lynn Nielsen: Uh, Gwendolyn\nBrooks is being honored here at\nthe Furious Flower Conference and\nuh, I was remembering that the very"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Aldon Lynn Nielsen",
+          "category": "Speaker"
+        }
+      ],
       "uuid": "03121c74-6d20-4448-85e6-099e7a2b09c9"
     },
     {
