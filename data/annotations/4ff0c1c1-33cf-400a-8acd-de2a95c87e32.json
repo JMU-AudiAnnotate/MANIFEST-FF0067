@@ -11,7 +11,12 @@
           "text": "Major Jackson: Vera, what do you\nthink is the significance of the\nyouth being here at this conference?"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Major Jackson",
+          "category": "Speaker"
+        }
+      ],
       "uuid": "f7e8f572-47a4-4ad3-95a2-abebd7fdd304"
     },
     {
