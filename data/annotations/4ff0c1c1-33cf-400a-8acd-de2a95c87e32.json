@@ -59,7 +59,12 @@
           "text": "Vera L. Beatty: A lot of people that are here\nare teachers as well as writers."
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Vera L. Beatty",
+          "category": "Speaker"
+        }
+      ],
       "uuid": "53487b68-5e8f-4fea-9f68-9151e287a164"
     },
     {
