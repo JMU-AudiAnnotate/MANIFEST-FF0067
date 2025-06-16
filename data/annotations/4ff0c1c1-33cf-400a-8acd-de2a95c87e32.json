@@ -316,7 +316,12 @@
           "text": "Dolores Kendrick: I'm glad\nto see you too, Judith."
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Dolores Kendrick",
+          "category": "Speaker"
+        }
+      ],
       "uuid": "5e515bed-712f-45fb-ad6f-015932f20106"
     },
     {
