@@ -27,7 +27,12 @@
           "text": "Vera L. Beatty: Um, I think it's\nsignificant that the youth is here\ntoday to recognize and be able to"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Vera L. Beatty",
+          "category": "Speaker"
+        }
+      ],
       "uuid": "31f8663e-e4ed-458b-8fa4-0d722b7fefd9"
     },
     {
