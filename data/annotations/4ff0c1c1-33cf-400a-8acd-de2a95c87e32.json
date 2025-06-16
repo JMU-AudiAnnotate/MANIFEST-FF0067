@@ -43,7 +43,12 @@
           "text": "Vera L. Beatty: have a discourse with, um, older\nwriters that are here and people\nwho are out in the community."
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Vera L. Beatty",
+          "category": "Speaker"
+        }
+      ],
       "uuid": "969889e7-2d5e-4d12-9d8d-aceecc664b7d"
     },
     {
