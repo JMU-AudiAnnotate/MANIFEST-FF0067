@@ -2581,7 +2581,12 @@
           "text": "Sandra Govan: classes, and that is, when and why\nand how did you start writing poetry?"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Sandra Govan",
+          "category": "Speaker"
+        }
+      ],
       "uuid": "6335c4c8-04a7-4b79-976d-2e90d9bae5b3"
     },
     {
