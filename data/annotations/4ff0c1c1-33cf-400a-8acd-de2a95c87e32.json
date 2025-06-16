@@ -5610,7 +5610,12 @@
           "text": "Michael S. Harper: Yes, yes it was."
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Michael S. Harper",
+          "category": "Speaker"
+        }
+      ],
       "uuid": "37051427-9768-483b-9360-6dc8337e4c8c"
     },
     {
