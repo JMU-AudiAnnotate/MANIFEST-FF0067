@@ -75,7 +75,12 @@
           "text": "Vera L. Beatty: And I think it's good to have some\ntype of discourse with the youth that\nare out here doing something today\nbesides it being in kind of like an"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Vera L. Beatty",
+          "category": "Speaker"
+        }
+      ],
       "uuid": "84d75eb1-8b5b-4e8e-b7dc-185ea1edca00"
     },
     {
