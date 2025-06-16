@@ -300,7 +300,12 @@
           "text": "Judith Thomas: Well, Dolores, so\nhappy you could be here today."
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Judith Thomas",
+          "category": "Speaker"
+        }
+      ],
       "uuid": "a149f1cc-d4c4-4523-bf14-1f2a99c4609b"
     },
     {
