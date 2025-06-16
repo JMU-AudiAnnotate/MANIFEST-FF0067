@@ -2597,7 +2597,12 @@
           "text": "Pinkie Gordon Lane: How\ndid I start writing poetry?"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Pinkie Gordon Lane",
+          "category": "Speaker"
+        }
+      ],
       "uuid": "995f3c19-a5ab-463f-8c08-82cf0d66d124"
     },
     {
