@@ -9531,6 +9531,70 @@
       ],
       "tags": [],
       "uuid": "2a4f959b-0ba7-4338-b161-26044fbc53f8"
+    },
+    {
+      "uuid": "5f5bde54-1ce3-489f-ae6d-36932106e621",
+      "start_time": 19.73,
+      "end_time": 186.934,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Major Jackson interviews Vera L. Beatty"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9fd7ec70-21cd-43b8-b2b4-3448dc6db05d",
+      "start_time": 206.434,
+      "end_time": 1130.579,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Judith Thomas interviews Dolores Kendrick"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "25af7ae4-4fa8-4a59-ab5e-7cbb1e4a0a59",
+      "start_time": 1150.19,
+      "end_time": 2170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sandra Govan interviews Pinkie Gordon Lane"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2ed5c151-7a40-4f75-8712-36c318b68408",
+      "start_time": 2189.93,
+      "end_time": 3517.004,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aldon Lynn Nielsen interviews Michael S. Harper"
+            }
+          ]
+        }
+      ],
+      "tags": []
     }
   ]
 }
