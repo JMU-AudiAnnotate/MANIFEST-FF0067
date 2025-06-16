@@ -2565,7 +2565,12 @@
           "text": "Sandra Govan: Pinky, I'd like to\nask you a variant on the question\nyou ask in freshman composition"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Sandra Govan",
+          "category": "Speaker"
+        }
+      ],
       "uuid": "b973e037-026f-4f81-af7d-9e5d892335d6"
     },
     {
